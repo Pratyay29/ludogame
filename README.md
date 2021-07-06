@@ -1,2 +1,2 @@
 # ludogame
-indoore game
+indoor game
